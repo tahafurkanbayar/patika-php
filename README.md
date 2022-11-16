@@ -1,2 +1,2 @@
-# patika-php
-Patika.dev Php dersi ödevleri ve dokümanları.
+# Patika PHP Dersleri Ödevler
+- Ödev 1
